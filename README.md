@@ -1,5 +1,7 @@
 [LeetCode](https://leetcode.com/problemset/all/)
 ========
+![Language](https://img.shields.io/badge/language-kotlin-blue)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 Kotlin Solutions of LeetCode Problems 🧗‍♂️
 
